@@ -43,7 +43,7 @@ This project showcases my skills, projects, and experience through an interactiv
 
 ## Live Demo
 
-You can view the live version of my portfolio website at:  [Visit my Portfolio 🌐↗](https://tushar-bhardwaj.vercel.app/)
+You can view the live version of my portfolio website at:  [Visit my Portfolio 🌐↗](https://hardikgarg987.github.io/Know-me/)
 
 ## Quick Start
 

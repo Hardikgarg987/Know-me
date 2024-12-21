@@ -1,7 +1,6 @@
 # Portfolio Website 🌐
 
-![image](https://github.com/user-attachments/assets/1ff84c05-8e91-4c47-b7db-e71f2a927809)
-
+![Screenshot 2024-12-21 161730](https://github.com/user-attachments/assets/787796c9-0693-4430-ab12-7bf2b04c425f)
 
 Welcome to my personal portfolio website repository! 
 

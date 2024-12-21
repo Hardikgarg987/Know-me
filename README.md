@@ -62,8 +62,8 @@ Ensure you have the following installed:
 Clone the repository using Git:
 
 ``` bash
-  git clone https://github.com/TuShArBhArDwA/Latest-Portfolio.git
-  cd Latest-Portfolio
+  git clone https://github.com/Hardikgarg987/Know-me.git
+  cd Know-me
 ```
 
 ### Installation
@@ -84,9 +84,7 @@ Open your browser and go to http://localhost:3000 to view the project.
 Feel free to fork this repository and submit pull requests if you have suggestions or improvements. For bug reports or feature requests, please open an issue.
 
 ### Links
-- **Old Portfolio:** [PortFolio](https://tusharbhardwaj.vercel.app/)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Connect 1:1** [Topmate](https://topmate.io/tusharbhardwaj)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hardilkgarg987/)
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
